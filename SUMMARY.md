@@ -13,5 +13,6 @@ Summary
 
 * [附錄](appendix/README.md)
   * [常見問題](appendix/faq.md)
+  * [中譯詞彙對照](appendix/bilingual.md)
   * [多媒體資源參考](appendix/used_reference.md)
 

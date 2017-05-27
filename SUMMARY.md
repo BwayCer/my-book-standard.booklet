@@ -7,12 +7,9 @@ Summary
 * [第一章節](content/first_chapter/README.md)
   * [文章標題](content/first_chapter/article_name.md)
 
-* [書體結構](content/book_layout/README.md)
-  * [資料夾結構](content/book_layout/folder_frame.md)
-  * [序文版型](content/book_layout/readme_layout.md)
-  * [目錄版型](content/book_layout/summary_layout.md)
-  * [章節版型](content/book_layout/chapter_layout.md)
-  * [文章版型](content/book_layout/article_layout.md)
+* [書體風格](content/book_style/README.md)
+  * [資料夾結構](content/book_style/folder_frame.md)
+  * [文件版型](content/book_style/file_layout.md)
 
 
 ---

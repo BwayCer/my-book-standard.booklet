@@ -35,6 +35,7 @@
   * `faq.md`： 常見問題。
   * `bilingual.md`： 中譯詞彙對照。
   * `used_reference.md`： 多媒體資源參考。
+  * `history_log.md`： 歷史日誌。
 
 
 

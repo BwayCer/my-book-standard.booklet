@@ -20,5 +20,6 @@ Summary
   * [常見問題](appendix/faq.md)
   * [中譯詞彙對照](appendix/bilingual.md)
   * [多媒體資源參考](appendix/used_reference.md)
+  * [歷史日誌](appendix/history_log.md)
 ```
 

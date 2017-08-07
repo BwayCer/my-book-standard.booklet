@@ -3,23 +3,19 @@
 
 
 <style>
-    .imgInfo {
-        display: block;
-        position: relative;
+    .imgInfo a {
+        width: 208px;
+        display: inline-block;
+        vertical-align: top;
     }
     .imgInfo img {
         max-width: 200px;
         max-height: 200px;
-        display: inline-block;
-        border: 1px solid #000;
         padding: 3px;
-        vertical-align: top;
+        border: 1px solid #000;
     }
     .imgInfo ul {
         display: inline-block;
-        position: absolute;
-        left: 204px;
-        right: 0px;
     }
 </style>
 
